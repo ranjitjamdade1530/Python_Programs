@@ -5,4 +5,4 @@ for ch in text:
     if ch.isdigit():
         digits += ch
 
-print("Digits =", digits)
+print("Digits =", digits) 
